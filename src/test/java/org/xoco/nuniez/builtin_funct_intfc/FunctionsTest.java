@@ -1,4 +1,4 @@
-package org.xoco.nuniez.builtin_funct_intfc.functions;
+package org.xoco.nuniez.builtin_funct_intfc;
 
 import org.junit.Test;
 

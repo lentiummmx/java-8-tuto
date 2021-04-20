@@ -1,4 +1,4 @@
-package org.xoco.nuniez.builtin_funct_intfc.comparators;
+package org.xoco.nuniez.builtin_funct_intfc;
 
 import org.junit.Test;
 import org.xoco.nuniez.mthd_cnstr_ref.Person;
