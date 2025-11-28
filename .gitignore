@@ -31,3 +31,9 @@ hs_err_pid*
 
 ## Static Code Testing Reports
 reports/
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
